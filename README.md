@@ -1,3 +1,3 @@
-# Octolipe
+# Octolipe Games
 
 TODO.
